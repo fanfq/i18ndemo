@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">i18ndemo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="home">this is home</string>
+    <string name="dashboard">this is dashboard</string>
+    <string name="notifications">this is notifications</string>
+
+</resources>
