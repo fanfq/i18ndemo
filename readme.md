@@ -1,3 +1,17 @@
+### 国际化翻译规范
+主要是要主要下目录结构
+|_values (文件夹)
+    |_values-zh-rCN (文件夹)
+    |       |_strings.xml (文件)
+    |_values-zh-rTW (文件夹)
+    |       |_strings.xml (文件)
+    |_values-en-rUS (文件夹)
+            |_strings.xml (文件)
+
+切记以`文件夹`区别不同的语言，而`strings.xml`内是这个语言的所有翻译。
+
+
+
 ###  常用的values目录对应的国家和地区
 
 中文（中国）：values-zh-rCN  
